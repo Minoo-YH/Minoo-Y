@@ -8,15 +8,15 @@ Building modern web and mobile applications with a focus on clean architecture, 
 
 <br>
 
-<a href="https://your-portfolio-link.com">
+<a href="[https://your-portfolio-link.com](https://react-vite-portfolio-five.vercel.app/)">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-22c55e?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/minoo-yaghoubi-692b42182/)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:minoo.yaghoubi2@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
