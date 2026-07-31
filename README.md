@@ -8,16 +8,20 @@ Building modern web and mobile applications with a focus on clean architecture, 
 
 <br>
 
-<a href="[https://your-portfolio-link.com](https://react-vite-portfolio-five.vercel.app/)">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-22c55e?style=for-the-badge"/>
+<a href="https://react-vite-portfolio-five.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-22c55e?style=for-the-badge" alt="Portfolio" />
 </a>
 
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/minoo-yaghoubi-692b42182/)">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/minoo-yaghoubi-692b42182/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="mailto:minoo.yaghoubi2@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
